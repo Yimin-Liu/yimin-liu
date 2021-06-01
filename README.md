@@ -1,4 +1,4 @@
-### Hi there, I'm Yi-Min Liu (刘一敏 in Chinese) 👋
+### Hi there, I'm Yi-Min Liu 👋
 
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/Yimin-Liu?label=Followers" alt="github follow" />
