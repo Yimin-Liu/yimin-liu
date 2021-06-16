@@ -40,8 +40,6 @@ I am a PhD student at Hefei University of Technology (HFUT).
 
 **Publications**:
 
-**Software**:
-
 <!--
 **Yimin-Liu/yimin-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
