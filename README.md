@@ -1,4 +1,4 @@
-### Hi there, I'm Yi-Min Liu 👋
+### Hi there, I'm Yi-Min Liu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> 
   <img src="https://img.shields.io/github/followers/Yimin-Liu?label=Followers" alt="github follow" />
@@ -38,8 +38,15 @@ I am a PhD student at Hefei University of Technology (HFUT).
 - Email: iminliu@yeah.net
 <!-- - [WeChat (微信)](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG)  -->
 
-**Publications**:
+<!-- **Publications**: -->
 
+👏 **Visitor Statistics:**
+<!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Yimin-Liu/count.svg" />
+</p>
 <!--
 **Yimin-Liu/yimin-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
