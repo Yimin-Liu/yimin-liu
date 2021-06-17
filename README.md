@@ -16,8 +16,8 @@ I am a PhD student at Hefei University of Technology (HFUT).
 
 😄 **I am open to**:
 
-- collaboration opportunities (anytime & anywhere & any type)
-- postdoc position, research internships, or visiting scholar
+- Collaboration opportunities (anytime & anywhere & any type)
+- Postdoc position, research internships, or visiting scholar
 
 💁🏻 **Languages and Tools**:
 
