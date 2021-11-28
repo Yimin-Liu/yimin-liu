@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Yimin-Liu&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
-I am a PhD candidate at Hefei University of Technology (HFUT).
+I am a PhD candidate at Hefei University of Technology (HFUT) in China.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
