@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Yimin-Liu&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
-I am currently pursuing a Ph.D. at Hefei University of Technology (HFUT) in China, concurrently serving as a visiting scholar at University of Technology Sydney (UTS).
+I am currently a postdoctoral researcher at Hefei University of Technology (HFUT) in China. I obtained my Ph.D. from Hefei University of Technology and was previously a visiting scholar at the University of Technology Sydney (UTS).
 
 🔭 **Reseach-wise, I mainly focus on**:
 
